@@ -1,0 +1,122 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Sensitive files - DO NOT COMMIT
+google-services.json
+app/google-services.json
+*.env
+.env
+.env.local
+.env.production
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Log files
+*.log
+*.txt
+
+# Gradle files
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+.navigation/
+captures/
+output.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Local configuration
+local.properties
+
+
+# Kiro IDE files
+.kiro/
+
+# Documentation (except README)
+*_DOCUMENTATION.md
+*_GUIDE.md
+*_FIX.md
+*_SUMMARY.md
+*_REPORT.md
+*_CHECKLIST.md
+*_INSTRUCTIONS.md
+*_SPEECH.md
+*_VERIFICATION.md
+SECURITY_*.md
+API_KEY_*.md
+GET_*.md
+TEST_*.md
+PDF_*.md
+QUOTA_*.md
+CONTENT_*.md
+DASHBOARD_*.md
+GEMINI_*.md
+AI_*.md
+GITHUB_*.md
+PRESENTATION_*.md
+PRE_*.md
+PROJECT_*.md
+
+# Temp and debug files
+*.tmp
+*.temp
+.jqwik-database
+app/.jqwik-database
+
+# Keystore directory
+tannukey/
+
+# IDE folders
+.vscode/
+.kotlin/
+
+# Build and log files
+build_err*.txt
+build_log*.txt
+build_output.*
+build_trace*.txt
+crash_log.txt
+log*.txt
+logcat*.txt
+recent_logcat*.txt
+list_of_kt_files.txt
+plain_build.txt
+gradle_error*.txt
+
+# Scripts (except gradlew)
+rebuild_and_install.bat
+rebuild_and_install.sh
+test_*.bat
+test_*.sh
+
+# Verify scripts
+verify_*.kt
+
+# Content uploader (non-runtime)
+content_uploader/
+
+# Unused JSON
+notion_content_links.json
