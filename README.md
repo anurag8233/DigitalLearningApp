@@ -31,7 +31,7 @@ Please configure your own API keys using local configuration files (e.g., local.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/tannuk716/Digital-Learning-App.git
+git clone https://github.com/anurag8233/DigitalLearningApp.git
 cd Digital-Learning-App
 ```
 
